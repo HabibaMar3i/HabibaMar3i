@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - **Tools:** Git, Figma, VS Code  
 
 ### 📊 GitHub Stats  
-![Biba's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)  
+![Biba's GitHub stats](https://github-readme-stats.vercel.app/api?username=<HabibaMar3i>&show_icons=true&theme=radical)  
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/habibahassanmarei/)  
