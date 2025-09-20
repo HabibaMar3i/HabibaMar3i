@@ -1,6 +1,6 @@
   # Hi there 👋, I'm Habiba  
 
-  💻 Junior Frontend Engineer | 🎨 Aspiring UI/UX Designer  
+  💻 Frontend Engineer | 🎨 Aspiring UI/UX Designer  
 
   - 🔭 Currently working with **Angular** and diving deeper into **React**  
   - 🎨 Exploring **UI/UX design**  
