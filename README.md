@@ -49,7 +49,7 @@
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibahassanmarei/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://ng-portfolio-pi.vercel.app/home](https://habiba-portfolio-omega.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://habiba-portfolio-omega.vercel.app/](https://habiba-portfolio-omega.vercel.app/))  
 
 ---
 
